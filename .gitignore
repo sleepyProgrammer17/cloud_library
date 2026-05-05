@@ -1,0 +1,6 @@
+.env
+djangoenv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env.prod
