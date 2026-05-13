@@ -1,3 +1,5 @@
+
+
 # api/service/embedding_service.py
 """
 Embedding service using Gemini Embeddings API.
